@@ -1,6 +1,14 @@
 .top {
     background: url("../images/home-background.png") center no-repeat #6EBD63
 }
+.joinUs {
+    background: url("../images/join-Us.png") center no-repeat;
+    color:white;
+    font-size: 17px;
+}
+.joinUs a {
+    color:black;
+}
 .logo {
     height:199px;
 }
